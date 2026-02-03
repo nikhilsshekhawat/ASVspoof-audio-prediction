@@ -1,4 +1,4 @@
-# ASVspoof-audio-prediction-
+# ASVspoof-audio-prediction
 
 The project works on the ASVspoof 2017 dataset with the aim of classifying a audio file as Genuine os Spoof.
 
